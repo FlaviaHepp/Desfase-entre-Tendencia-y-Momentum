@@ -74,3 +74,6 @@ Calcula la latencia en días entre:
 - No es una señal de trading directa
 - Es una herramienta de diagnóstico de mercado
 - Ideal para mejorar sistemas existentes
+
+## 👤Autora
+Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
